@@ -11,8 +11,8 @@ from discord.ext import commands
 # ==========================================
 # ⚙️ CẤU HÌNH BOT TÀI CHÍNH
 # ==========================================
-MY_GUILD_ID = 1313074154337206352  # ID máy chủ của bạn
-MY_BOT_TOKEN = "DÁN_MÃ_TOKEN_BOT_MỚI_VÀO_ĐÂY"
+MY_GUILD_ID = 1559384250279526562  # ID máy chủ của bạn
+MY_BOT_TOKEN = "MTU1OTM4NTc0ODk1OTEzNzkzMg.Gj0azG.hg63y2Nq0sUs43np4ON3RwKoW_PTHIti9J0Lgs"
 DB_NAME = "finance.db"
 # ==========================================
 
